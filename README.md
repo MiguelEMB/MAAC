@@ -1,2 +1,2 @@
 # MAAC
-lgorithmic Bot - Machine Learning
+Algorithmic Bot - Machine Learning
