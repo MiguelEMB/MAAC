@@ -40,7 +40,6 @@ The conclusion section summarizes the project's findings and key takeaways. It h
 
 This section outlines potential future developments and enhancements for the MAAC algorithmic bot. It explores the possibility of incorporating advanced machine learning techniques, expanding the range of trading strategies, and adapting to evolving market conditions.
 
-## Dependencies
 
 ## Dependencies
 
